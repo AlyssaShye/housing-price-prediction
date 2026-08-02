@@ -47,9 +47,14 @@ Accurately estimating housing prices is important for buyers, sellers, real esta
 
 ## Visualizations
 
-*(Graphs and model output screenshots will be added here.)*
+### Optimized Regression Model
 
----
+![Regression Summary](optimized-regression-summary.png)
+
+### Model Performance
+
+![Model Performance](model-performance.png)
+
 
 ## Results
 

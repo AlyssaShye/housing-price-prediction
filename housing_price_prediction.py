@@ -16,8 +16,7 @@ pd.set_option('display.width', None)
 
 # Load dataset
 df = pd.read_csv(
-    r"C:\Users\Alyss\Downloads\D600 Task 1, 2 and 3 Dataset Housing Information.csv"
-)
+  pd.read_csv("housing_dataset.csv")
 
 
 # Variables selected in B1
